@@ -134,10 +134,10 @@ A cryptocurrency-themed web development project. Explore the repository for its 
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=harisingh294&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub statistics" width="100%" />
+      <img src="https://github-stats-extended.vercel.app/api?username=harisingh294&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub statistics" width="100%" />
     </td>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harisingh294&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages" width="100%" />
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=harisingh294&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages" width="100%" />
     </td>
   </tr>
   <tr>

@@ -1,16 +1,17 @@
 <h1 align="center">Hi, I'm Harisingh Rajpoot 👋</h1>
 
 <p align="center">
-  <b>B.Tech Computer Science @ Sitare University</b> · Backend & Full-Stack Developer · AI/ML Enthusiast
+  <b>Full-Stack Developer</b> · B.Tech Computer Science @ Sitare University · AI/ML Enthusiast
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=Building+useful+software;Java+%7C+Node.js+%7C+PostgreSQL;Backend+%26+Full-Stack+Development;Exploring+AI%2FML+and+Algorithms" alt="Typing animation: Building useful software, Java, Node.js, PostgreSQL, Backend and Full-Stack Development, Exploring AI/ML and Algorithms" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Building+end-to-end+web+applications;React+%7C+Node.js+%7C+PostgreSQL;Exploring+AI%2FML+and+Algorithms" alt="Typing animation: Full-Stack Developer, Building end-to-end web applications, React, Node.js, PostgreSQL, Exploring AI/ML and Algorithms" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/harisingh-rajpoot/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:su-24052@sitare.org"><img src="https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://alumverse.in/"><img src="https://img.shields.io/badge/AlumVerse-Live-16A34A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="AlumVerse live site" /></a>
+  <a href="mailto:harisinghrajpoot535@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://youtube.com/@harisinghrajpoot535"><img src="https://img.shields.io/badge/YouTube-Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
 </p>
 
@@ -20,7 +21,7 @@
 
 - 🎓 B.Tech Computer Science student at **Sitare University, Lucknow** (graduating May 2027).
 - 🏅 Recipient of a **100% full-tuition merit scholarship** from Sitare Foundation.
-- 🛠️ I build backend-heavy, full-stack web applications: REST APIs, relational databases, authentication and deployment.
+- 🛠️ I build full-stack web applications end to end: responsive frontends, REST APIs, relational databases, authentication and deployment.
 - 🧠 Strong foundation in data structures, algorithms, object-oriented design and problem-solving.
 - 🤖 Exploring AI/ML: search algorithms, classical machine learning and data analysis.
 
@@ -95,6 +96,8 @@ A B2B SaaS platform that helps colleges and schools maintain a **verified alumni
 
 `Node.js` `Express` `PostgreSQL` `SQLite` `JavaScript (ES Modules)` `Docker`
 
+🔗 **[Live: alumverse.in](https://alumverse.in/)** · [Source code](https://github.com/harisingh294/alumni-connect-platform)
+
 <br/>
 
 <table>
@@ -161,7 +164,7 @@ A B2B SaaS platform that helps colleges and schools maintain a **verified alumni
       <img src="./assets/github-stats.svg" alt="GitHub statistics" width="100%" />
     </td>
     <td align="center" width="50%">
-      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=harisingh294&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages" width="100%" />
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=harisingh294&layout=compact&hide=jupyter%20notebook&theme=github_dark&hide_border=true" alt="Most used languages" width="100%" />
     </td>
   </tr>
   <tr>

@@ -134,7 +134,7 @@ A cryptocurrency-themed web development project. Explore the repository for its 
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-stats-extended.vercel.app/api?username=harisingh294&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub statistics" width="100%" />
+      <img src="./assets/github-stats.svg" alt="GitHub statistics" width="100%" />
     </td>
     <td align="center" width="50%">
       <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=harisingh294&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages" width="100%" />
@@ -142,7 +142,7 @@ A cryptocurrency-themed web development project. Explore the repository for its 
   </tr>
   <tr>
     <td align="center" colspan="2">
-      <img src="https://streak-stats.demolab.com?user=harisingh294&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" width="100%" />
+      <img src="./assets/streak.svg" alt="GitHub contribution streak" width="100%" />
     </td>
   </tr>
 </table>
@@ -152,7 +152,7 @@ A cryptocurrency-themed web development project. Explore the repository for its 
 <h3 align="center">Contribution Graph</h3>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/7C3AED/harisingh294" alt="Harisingh Rajpoot's GitHub Contribution Chart" width="100%" />
+  <img src="./assets/contributions.svg" alt="Harisingh Rajpoot's GitHub Contribution Chart" width="100%" />
 </p>
 
 ---
